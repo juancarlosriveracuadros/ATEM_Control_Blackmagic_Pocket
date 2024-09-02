@@ -1,7 +1,7 @@
 # ATEM_Control_Blackmagic_Pocket
 
 
-#scope
+## scope
 - To allow the person carrying the mobile camera to fully focus on the perspective and walking, we want to enable the lighting to be controlled remotely by the director.
 - The whole setup needs to work wirelessly, of course.
 - The system should activate itself automatically and be ready at all times.
